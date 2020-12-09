@@ -1,9 +1,7 @@
-Vue.prototype.GLOBAL = 'unicorn'
-
 var app = new Vue({
   el: '#example_vue_unicorn',
   data: {
-    name: GLOBAL,
+    name: window.uniname,
     mainColor: '#662d91',
     tailAccentColor: '#36c1d9',
     bodyColor: '#efe2B4',
