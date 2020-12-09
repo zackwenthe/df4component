@@ -1,7 +1,7 @@
 var app = new Vue({
   el: '#example_vue_unicorn',
   data: {
-    name: 'A Beautiful Vuenicorn',
+    name: '{{dlv-unicornname}}',
     mainColor: '#662d91',
     tailAccentColor: '#36c1d9',
     bodyColor: '#efe2B4',
