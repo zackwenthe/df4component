@@ -1,5 +1,5 @@
 var app = new Vue({
-  el: '#example_vue_unicorn',
+  el: '#example_unicorn',
   data: {
     return {name: window.uniname},
     mainColor: '#662d91',
