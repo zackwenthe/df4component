@@ -1,8 +1,8 @@
-Vue.prototype.$unicornname = window.uniname;
+
 var app = new Vue({
   el: '#example_vue_unicorn',
   data: {
-    name: $unicornname,
+    name: uniname,
     mainColor: '#662d91',
     tailAccentColor: '#36c1d9',
     bodyColor: '#efe2B4',
