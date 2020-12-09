@@ -1,4 +1,4 @@
-name: Example Vue Unicorn
+name: Example Vue Unicorn - SS
 description: 'Example using Vue, the Progressive JavaScript Framework.'
 js:
   example_vue_unicorn.js: {attributes: { type: 'text/babel' }}
