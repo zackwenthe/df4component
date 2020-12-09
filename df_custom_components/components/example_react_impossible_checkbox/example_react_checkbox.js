@@ -12,8 +12,8 @@ const rootNode = document.getElementById('example_react_checkbox')
 const armLimit = random(0, 3)
 const headLimit = random(armLimit + 1, armLimit + 3)
 const angerLimit = random(headLimit + 1, headLimit + 3)
-const armDuration = 0.2
-const bearDuration = 0.25
+const armDuration = window.arms
+const bearDuration = window.bears
 const checkboxDuration = 0.25
 const pawDuration = 0.1
 
