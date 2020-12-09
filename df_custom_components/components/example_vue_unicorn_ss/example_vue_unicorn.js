@@ -1,4 +1,4 @@
-Vue.prototype.GLOBAL = window.uniname
+Vue.prototype.GLOBAL = 'unicorn'
 
 var app = new Vue({
   el: '#example_vue_unicorn',
