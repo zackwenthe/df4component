@@ -1,6 +1,6 @@
+Vue.prototype.GLOBAL = window.uniname
 
 var app = new Vue({
-  Vue.prototype.GLOBAL = window.uniname;
   el: '#example_vue_unicorn',
   data: {
     name: GLOBAL,
